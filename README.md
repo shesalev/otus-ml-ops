@@ -52,5 +52,10 @@ s3://otus-mlops-shesalev
 ## Файлы на hdfs
 <image src="/images/Screenshot 2023-07-29 at 19.13.34.png" alt="снимок экрана">
 
+## Расходы
+Если рассматривать расходы:
 
+<image src="/images/Screenshot 2023-07-29 at 19.36.48.png" alt="снимок экрана">
 
+Видим, что s3 дешевле hdfs
+40,79 < 51,79 + 5,37
